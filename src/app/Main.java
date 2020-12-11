@@ -39,6 +39,7 @@ public class Main {
 			int quarto = sc.nextInt();
 			vet[quarto] = new Estudantes(nome,email);
 			//media += vet[i];
+			//media += vet[i];
 		}
 		
 		for (int i = 0; i < vet.length; i++) {
